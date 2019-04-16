@@ -15,7 +15,7 @@
 
 > ![](https://img.shields.io/website/https/git.funclown.cn.svg?label=网站状态&logo=git.funclown.cn)
 
-> ![](https://img.shields.io/badge/%E7%B3%BB%E7%BB%9F-windows%2FCentOS-green.svg)
+> ![](https://img.shields.io/badge/%E7%B3%BB%E7%BB%9F-win--64%2FCentOS-blue.svg)
 
 ### 成就目录 -(Achievement catalogue)
 
