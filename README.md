@@ -1,90 +1,379 @@
-# VBlog
-![](https://img.shields.io/badge/vue-2.5.2-brightgreen.svg) ![](https://img.shields.io/badge/element--ui-2.3.5-brightgreen.svg) ![](https://img.shields.io/badge/vant-1.1.2-brightgreen.svg)
-## 目录
-- [简介](#简介)
-- [演示地址](#演示地址)
-- [项目源码](#项目源码)
-- [项目特点](#项目特点)
-- [更新记录](#更新记录)
-- [快速使用](#快速使用)
-
-## 简介
-
-博客基于 GitHub Pages 与 Github API 实现无后台，可动态发布博客的系统
-博客数据储存于gist 通过Github API 进行增删改查
-喜欢的话留下你的星星╭(●｀∀´●)╯╰(●’◡’●)╮
+# 介绍
+** 帅照(My picture)**
 
 
-## 演示地址
-[https://github-laziji.github.io][1]
-
-## 项目源码
-[https://github.com/GitHub-Laziji/vblog][3]
-
-## 项目特点
-
-- [x] 基于 GitHub Pages 无需服务器
-- [x] 改进传统 GitHub Pages 不能动态发布的缺陷
-- [x] 包含电脑端和移动端
-- [x] 单页面应用
-
-
-## 更新记录
-
-#### 2018.5.19 更新
-- 增加使用帮助页面
-- 修复没有README.md时候出现的BUG
-
-#### 2018.5.16 更新
-- 显示粉丝数量
-- 增加粉丝详情页面
-
-#### 2018.5.15 更新
-- 粉丝页面优化没有粉丝的情况
-- 修改有的图片越界
-- 配置增加是否自动播放音乐
-- 去除默认音乐
-
-#### 2018.5.13 更新
-- 电脑端增加社交圈, 查看粉丝和关注的用户
-
-#### 2018.5.11 更新
-- 移动端增加博客, 项目, 个人中心, 移动端和PC端共用API, 页面独立 
-- 修复文章样式奇怪的BUG
-
-#### 2018.5.8 更新
-- 增加配置选项
-- 改善富文本编辑器
-
-#### 2018.5.6 更新
-- 状态栏增加音乐播放器
-
-#### 2018.5.5 更新
-- 增加了系统配置, 可以动态修改标题, 描述, 背景等配置 
-
-#### 2018.5.2 更新
-- 增加博客和项目列表的分页 
-- 增加分享链接 
-- 改进Token绑定验证 
-- 修改代码结构 
-
-#### 2018.4.30 更新
-- 添加了从github获取个人开源项目的功能,显示信息更加全面,显示开源项目列表
-- Readme 从github动态获取
-
-#### 2018.4.29 更新
-- 增加个人信息的状态栏
-- 修复发图片博文的BUG 
+![](http://wx4.sinaimg.cn/mw690/005Kqaqbly8g0flee0e78j30dc0dcmzp.jpg)
 
 
 
+** 网站状态(Website status)**
 
-------
+![](https://img.shields.io/website/https/git.funclown.cn.svg?label=网站状态&logo=git.funclown.cn)
+
+![](https://img.shields.io/badge/%E7%B3%BB%E7%BB%9F-windows%2FCentOS-green.svg)
+
+**成就目录 (Achievement catalogue)**
+
+ ![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-GitHub-brightgreen.svg) ![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE-brightgreen.svg) ![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-%E8%A2%AB%E8%AF%B7%E5%96%9D%E8%8C%B6-brightgreen.svg)
 
 
 
+**目录 (Table of Contents)**
 
+[TOCM]
 
-  [1]: https://github-laziji.github.io
-  [2]: https://github.com/GitHub-Laziji/GitHub-Laziji.github.io
-  [3]: https://github.com/GitHub-Laziji/vblog
+[TOC]
+
+# Heading 1
+## Heading 2               
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+# Heading 1 link [Heading link](https://github.com/pandao/editor.md "Heading link")
+## Heading 2 link [Heading link](https://github.com/pandao/editor.md "Heading link")
+### Heading 3 link [Heading link](https://github.com/pandao/editor.md "Heading link")
+#### Heading 4 link [Heading link](https://github.com/pandao/editor.md "Heading link") Heading link [Heading link](https://github.com/pandao/editor.md "Heading link")
+##### Heading 5 link [Heading link](https://github.com/pandao/editor.md "Heading link")
+###### Heading 6 link [Heading link](https://github.com/pandao/editor.md "Heading link")
+
+#### 标题（用底线的形式）Heading (underline)
+
+This is an H1
+=============
+
+This is an H2
+-------------
+
+### 字符效果和横线等
+                
+----
+
+~~删除线~~ <s>删除线（开启识别HTML标签时）</s>
+*斜体字*      _斜体字_
+**粗体**  __粗体__
+***粗斜体*** ___粗斜体___
+
+上标：X<sub>2</sub>，下标：O<sup>2</sup>
+
+**缩写(同HTML的abbr标签)**
+
+> 即更长的单词或短语的缩写形式，前提是开启识别HTML标签时，已默认开启
+
+The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.
+
+### 引用 Blockquotes
+
+> 引用文本 Blockquotes
+
+引用的行内混合 Blockquotes
+                    
+> 引用：如果想要插入空白换行`即<br />标签`，在插入处先键入两个以上的空格然后回车即可，[普通链接](http://localhost/)。
+
+### 锚点与链接 Links
+
+[普通链接](http://localhost/)
+
+[普通链接带标题](http://localhost/ "普通链接带标题")
+
+直接链接：<https://github.com>
+
+[锚点链接][anchor-id] 
+
+[anchor-id]: http://www.this-anchor-link.com/
+
+[mailto:test.test@gmail.com](mailto:test.test@gmail.com)
+
+GFM a-tail link @pandao  邮箱地址自动链接 test.test@gmail.com  www@vip.qq.com
+
+> @pandao
+
+### 多语言代码高亮 Codes
+
+#### 行内代码 Inline code
+
+执行命令：`npm install marked`
+
+#### 缩进风格
+
+即缩进四个空格，也做为实现类似 `<pre>` 预格式化文本 ( Preformatted Text ) 的功能。
+
+    <?php
+        echo "Hello world!";
+    ?>
+    
+预格式化文本：
+
+    | First Header  | Second Header |
+    | ------------- | ------------- |
+    | Content Cell  | Content Cell  |
+    | Content Cell  | Content Cell  |
+
+#### JS代码　
+
+```javascript
+function test() {
+	console.log("Hello world!");
+}
+ 
+(function(){
+    var box = function() {
+        return box.fn.init();
+    };
+
+    box.prototype = box.fn = {
+        init : function(){
+            console.log('box.init()');
+
+			return this;
+        },
+
+		add : function(str) {
+			alert("add", str);
+
+			return this;
+		},
+
+		remove : function(str) {
+			alert("remove", str);
+
+			return this;
+		}
+    };
+    
+    box.fn.init.prototype = box.fn;
+    
+    window.box =box;
+})();
+
+var testBox = box();
+testBox.add("jQuery").remove("jQuery");
+```
+
+#### HTML 代码 HTML codes
+
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <mate charest="utf-8" />
+        <meta name="keywords" content="Editor.md, Markdown, Editor" />
+        <title>Hello world!</title>
+        <style type="text/css">
+            body{font-size:14px;color:#444;font-family: "Microsoft Yahei", Tahoma, "Hiragino Sans GB", Arial;background:#fff;}
+            ul{list-style: none;}
+            img{border:none;vertical-align: middle;}
+        </style>
+    </head>
+    <body>
+        <h1 class="text-xxl">Hello world!</h1>
+        <p class="text-green">Plain text</p>
+    </body>
+</html>
+```
+
+### 图片 Images
+
+Image:
+
+![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+
+> Follow your heart.
+
+![](https://pandao.github.io/editor.md/examples/images/8.jpg)
+
+> 图为：厦门白城沙滩
+
+图片加链接 (Image + Link)：
+
+[![](https://pandao.github.io/editor.md/examples/images/7.jpg)](https://pandao.github.io/editor.md/images/7.jpg "李健首张专辑《似水流年》封面")
+
+> 图为：李健首张专辑《似水流年》封面
+                
+----
+
+### 列表 Lists
+
+#### 无序列表（减号）Unordered Lists (-)
+                
+- 列表一
+- 列表二
+- 列表三
+     
+#### 无序列表（星号）Unordered Lists (*)
+
+* 列表一
+* 列表二
+* 列表三
+
+#### 无序列表（加号和嵌套）Unordered Lists (+)
+                
++ 列表一
++ 列表二
+    + 列表二-1
+    + 列表二-2
+    + 列表二-3
++ 列表三
+    * 列表一
+    * 列表二
+    * 列表三
+
+#### 有序列表 Ordered Lists (-)
+                
+1. 第一行
+2. 第二行
+3. 第三行
+
+#### GFM task list
+
+- [x] GFM task list 1
+- [x] GFM task list 2
+- [ ] GFM task list 3
+    - [ ] GFM task list 3-1
+    - [ ] GFM task list 3-2
+    - [ ] GFM task list 3-3
+- [ ] GFM task list 4
+    - [ ] GFM task list 4-1
+    - [ ] GFM task list 4-2
+                
+----
+                    
+### 绘制表格 Tables
+
+| 项目        | 价格   |  数量  |
+| --------   | -----:  | :----:  |
+| 计算机      | $1600   |   5     |
+| 手机        |   $12   |   12   |
+| 管线        |    $1    |  234  |
+                    
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell 
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+| Function name | Description                    |
+| ------------- | ------------------------------ |
+| `help()`      | Display the help window.       |
+| `destroy()`   | **Destroy your computer!**     |
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
+
+| Item      | Value |
+| --------- | -----:|
+| Computer  | $1600 |
+| Phone     |   $12 |
+| Pipe      |    $1 |
+                
+----
+
+#### 特殊符号 HTML Entities Codes
+
+&copy; &  &uml; &trade; &iexcl; &pound;
+&amp; &lt; &gt; &yen; &euro; &reg; &plusmn; &para; &sect; &brvbar; &macr; &laquo; &middot; 
+
+X&sup2; Y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo;
+
+18&ordm;C  &quot;  &apos;
+
+[========]
+
+### Emoji表情 :smiley:
+
+> Blockquotes :star:
+
+#### GFM task lists & Emoji & fontAwesome icon emoji & editormd logo emoji :editormd-logo-5x:
+
+- [x] :smiley: @mentions, :smiley: #refs, [links](), **formatting**, and <del>tags</del> supported :editormd-logo:;
+- [x] list syntax required (any unordered or ordered list supported) :editormd-logo-3x:;
+- [x] [ ] :smiley: this is a complete item :smiley:;
+- [ ] []this is an incomplete item [test link](#) :fa-star: @pandao; 
+- [ ] [ ]this is an incomplete item :fa-star: :fa-gear:;
+    - [ ] :smiley: this is an incomplete item [test link](#) :fa-star: :fa-gear:;
+    - [ ] :smiley: this is  :fa-star: :fa-gear: an incomplete item [test link](#);
+ 
+#### 反斜杠 Escape
+
+\*literal asterisks\*
+
+[========]
+            
+### 科学公式 TeX(KaTeX)
+
+$$E=mc^2$$
+
+行内的公式$$E=mc^2$$行内的公式，行内的$$E=mc^2$$公式。
+
+$$x > y$$
+
+$$\(\sqrt{3x-1}+(1+x)^2\)$$
+                    
+$$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
+
+多行公式：
+
+```math
+\displaystyle
+\left( \sum\_{k=1}^n a\_k b\_k \right)^2
+\leq
+\left( \sum\_{k=1}^n a\_k^2 \right)
+\left( \sum\_{k=1}^n b\_k^2 \right)
+```
+
+```katex
+\displaystyle 
+    \frac{1}{
+        \Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{
+        \frac25 \pi}} = 1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {
+        1+\frac{e^{-6\pi}}
+        {1+\frac{e^{-8\pi}}
+         {1+\cdots} }
+        } 
+    }
+```
+
+```latex
+f(x) = \int_{-\infty}^\infty
+    \hat f(\xi)\,e^{2 \pi i \xi x}
+    \,d\xi
+```
+
+### 分页符 Page break
+
+> Print Test: Ctrl + P
+
+[========]
+
+### 绘制流程图 Flowchart
+
+```flow
+st=>start: 用户登陆
+op=>operation: 登陆操作
+cond=>condition: 登陆成功 Yes or No?
+e=>end: 进入后台
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
+
+[========]
+                    
+### 绘制序列图 Sequence Diagram
+                    
+```seq
+Andrew->China: Says Hello 
+Note right of China: China thinks\nabout it 
+China-->Andrew: How are you? 
+Andrew->>China: I am good thanks!
+```
+
+### End
