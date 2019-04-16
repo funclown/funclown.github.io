@@ -19,7 +19,7 @@
 
 ### 成就目录 -(Achievement catalogue)
 
- ![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-GitHub-brightgreen.svg) ![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE-brightgreen.svg) ![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-%E8%A2%AB%E8%AF%B7%E5%96%9D%E8%8C%B6-brightgreen.svg)
+> ![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-GitHub-brightgreen.svg) ![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE-brightgreen.svg) ![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-%E8%A2%AB%E8%AF%B7%E5%96%9D%E8%8C%B6-brightgreen.svg)
 
 
 ----------
