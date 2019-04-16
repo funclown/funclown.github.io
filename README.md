@@ -1,8 +1,4 @@
 # 介绍
-** 帅照(My picture)**
-
-
-![](http://wx4.sinaimg.cn/mw690/005Kqaqbly8g0flee0e78j30dc0dcmzp.jpg)
 
 ** 介绍(introduce)**
 
