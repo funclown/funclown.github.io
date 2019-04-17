@@ -12,8 +12,8 @@
 > 一天不折腾点什么就浑身难受！
 
 ### 网站状态 -(Website status)
-> ![](https://img.shields.io/badge/%E9%93%BE%E6%8E%A5-https%3A%2F%2Fgit.funclown.cn%2F-brightgreen.svg?style=social&logo=Google%20Chrome)  #####[网站链接][anchor-id]
-
+> ![](https://img.shields.io/badge/%E9%93%BE%E6%8E%A5-https%3A%2F%2Fgit.funclown.cn%2F-brightgreen.svg?style=social&logo=Google%20Chrome)  
+> [网站链接][anchor-id]
 [anchor-id]: https://git.funclown.cn/   
 
 > ![](https://img.shields.io/website/https/git.funclown.cn.svg?label=网站状态&logo=git.funclown.cn)
