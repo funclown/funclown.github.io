@@ -31,6 +31,7 @@
 ![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-%E8%84%B1%E5%8F%91-brightgreen.svg?style=flat&logo=auth0) 
 ![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-%E5%8A%A0%E7%8F%AD%E5%88%B0%E6%B7%B1%E5%A4%9C-brightgreen.svg?style=flat&logo=auth0)
 ![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-996ICU-red.svg?style=flat&logo=Buy%20Me%20A%20Coffee)
+![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-%E5%8D%95%E8%BA%AB%E7%8B%97-brightgreen.svg?style=flat&logo=gitlab)
 
 
 ----------
