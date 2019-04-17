@@ -16,7 +16,7 @@
 
 > [网站链接][anchor-id]
 
-[anchor-id]: https://git.funclown.cn/   
+[anchor-id]: https://git.funclown.cn/#/user/new/main   
 
 > ![](https://img.shields.io/website/https/git.funclown.cn.svg?label=网站状态&logo=git.funclown.cn)
  ![](https://img.shields.io/github/last-commit/funclown/funclown.github.io.svg?label=%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0&logo=%E7%BD%91%E7%AB%99)
