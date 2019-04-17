@@ -23,7 +23,13 @@
 
 ### 成就目录 -(Achievement catalogue)
 
-> ![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-GitHub-brightgreen.svg) ![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE-brightgreen.svg) ![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-%E8%A2%AB%E8%AF%B7%E5%96%9D%E8%8C%B6-brightgreen.svg) ![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-%E8%84%B1%E5%8F%91-brightgreen.svg) ![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-%E5%8A%A0%E7%8F%AD%E5%88%B0%E6%B7%B1%E5%A4%9C-brightgreen.svg)
+
+> ![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-GitHub-brightgreen.svg) 
+![](https://img.shields.io/badge/成就-个人博客-brightgreen.svg?style=flat&logo=blogger) 
+![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE-brightgreen.svg) 
+![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-%E8%A2%AB%E8%AF%B7%E5%96%9D%E8%8C%B6-brightgreen.svg) 
+![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-%E8%84%B1%E5%8F%91-brightgreen.svg) 
+![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-%E5%8A%A0%E7%8F%AD%E5%88%B0%E6%B7%B1%E5%A4%9C-brightgreen.svg)
 
 
 ----------
