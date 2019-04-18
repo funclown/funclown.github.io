@@ -11,7 +11,7 @@
 **个人名言：**`天大地大，搞事最大`
 > 一天不折腾点什么就浑身难受！
 
-> ![](https://img.shields.io/github/watchers/funclown/funclown.github.io.svg?label=%E7%B2%89%E4%B8%9D&style=social)  ![](https://img.shields.io/github/stars/funclown/funclown.github.io.svg?label=star&style=social) 
+> ![](https://img.shields.io/github/watchers/funclown/funclown.github.io.svg?label=%E7%B2%89%E4%B8%9D&style=social)  ![](https://img.shields.io/github/stars/funclown/funclown.github.io.svg?label=star&style=social) ![](https://img.shields.io/twitter/follow/Funnyclown6.svg?label=%E6%8E%A8%E7%89%B9&style=social)
 
 
 ### 网站状态 -(Website status)
