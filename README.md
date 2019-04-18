@@ -10,8 +10,10 @@
 
 **个人名言：**`天大地大，搞事最大`
 > 一天不折腾点什么就浑身难受！
-![](https://img.shields.io/github/watchers/funclown/funclown.github.io.svg?label=%E7%B2%89%E4%B8%9D&style=social)  
+
+> ![](https://img.shields.io/github/watchers/funclown/funclown.github.io.svg?label=%E7%B2%89%E4%B8%9D&style=social)  
 ![](https://img.shields.io/github/stars/funclown/funclown.github.io.svg?label=%E6%98%9F%E6%98%9F&style=social) 
+
 
 ### 网站状态 -(Website status)
 > ![](https://img.shields.io/badge/%E9%93%BE%E6%8E%A5-https%3A%2F%2Fgit.funclown.cn%2F-brightgreen.svg?style=social&logo=Google%20Chrome)  
