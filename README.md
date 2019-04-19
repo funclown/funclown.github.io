@@ -25,6 +25,7 @@
 
 > ![](https://img.shields.io/github/contributors/funclown/funclown.github.io.svg?label=%E5%90%88%E4%BD%9C%E4%BA%BA%E6%95%B0&logo=%E5%90%88%E4%BD%9C%E4%BA%BA%E6%95%B0)
  ![](https://img.shields.io/badge/%E7%B3%BB%E7%BB%9F-win--64%2FCentOS-blue.svg?style=flat&logo=windows)
+ ![GitHub top language](https://img.shields.io/github/languages/top/funclown/funclown.github.io.svg)
 
 
 ### 成就目录 -(Achievement catalogue)
