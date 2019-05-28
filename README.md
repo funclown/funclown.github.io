@@ -11,11 +11,11 @@
 **个人名言：**`天大地大，搞事最大`
 > 一天不折腾点什么就浑身难受！
 
-> ![](https://img.shields.io/github/watchers/funclown/funclown.github.io.svg?label=%E7%B2%89%E4%B8%9D&style=social?link=http://gitfun.fun.cn)  ![](https://img.shields.io/github/stars/funclown/funclown.github.io.svg?label=星星&style=social) ![](https://img.shields.io/twitter/follow/Funnyclown6.svg?label=%E6%8E%A8%E7%89%B9&style=social)
+> ![](https://img.shields.io/github/watchers/funclown/funclown.github.io.svg?label=%E7%B2%89%E4%B8%9D&style=social)  ![](https://img.shields.io/github/stars/funclown/funclown.github.io.svg?label=星星&style=social) ![](https://img.shields.io/twitter/follow/Funnyclown6.svg?label=%E6%8E%A8%E7%89%B9&style=social)
 
 
 ### 网站状态 -(Website status)
-> ![](https://img.shields.io/badge/%E9%93%BE%E6%8E%A5-gitfun.fun-brightgreen.svg?style=social&logo=Google%20Chrome)  
+> ![](https://img.shields.io/badge/%E9%93%BE%E6%8E%A5-gitfun.fun-brightgreen.svg?style=social&logo=Google%20Chrome?link=http://gitfun.fun.cn)  
 
 
 
