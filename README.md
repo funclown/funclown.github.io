@@ -15,7 +15,7 @@
 
 
 ### 网站状态 -(Website status)
-> ![](https://img.shields.io/badge/%E9%93%BE%E6%8E%A5-gitfun.fun-brightgreen.svg?style=social&logo=Google%20Chrome?link=http://gitfun.fun.cn)  
+> ![](https://img.shields.io/badge/%E9%93%BE%E6%8E%A5-gitfun.fun-brightgreen.svg?style=social&logo=Google%20Chrome)  
 
 
 
