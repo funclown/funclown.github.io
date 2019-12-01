@@ -39,7 +39,7 @@
 ![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-996ICU-red.svg?style=flat&logo=AddThis)
 ![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-%E5%8D%95%E8%BA%AB%E7%8B%97-brightgreen.svg?style=flat&logo=Odnoklassniki)
 ![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-%E6%90%AC%E7%A0%96%E5%B7%A5%E4%BA%BA-brightgreen.svg?style=flat&logo=Docker)
-![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-%E8%A1%A8%E7%99%BD%E8%A2%AB%E6%8B%92-brightgreen.svg?style=flat&logo=Ello)
+![](https://img.shields.io/badge/%E6%88%90%E5%B0%B1-%E8%A1%A8%E7%99%BD%E6%88%90%E5%8A%9F-brightgreen.svg?style=flat&logo=Ell)
 
 
 ----------
